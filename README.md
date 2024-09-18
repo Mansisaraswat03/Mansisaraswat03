@@ -1,5 +1,6 @@
  [![Linkedin Badge](https://img.shields.io/badge/mansi-saraswat-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-saraswat-050014264/)
-[![Codechef Badge](https://img.shields.io/badge/mansi-saraswat-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/mansi_saraswat)
+ [![Leetcode Badge](https://img.shields.io/badge/mansi-saraswat-30302f?style=flat&logo=leetcode)](https://leetcode.com/u/mansi_saraswat/)
+ [![GFG Badge](https://img.shields.io/badge/mansi-saraswat-30302f?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mansisarak9ph/)
 [![Gmail Badge](https://img.shields.io/badge/mansisaraswat030@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:mansisaraswat030@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mansisaraswat03" alt="Mansisaraswat03" /> </p>
 
@@ -9,10 +10,10 @@
 
 ## Skills
 
-<p> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></p>
+<p> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-4EA94B?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Postgres-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=black"/></p>
 
-- 🔭 I’m currently working on fullstack Web development
-- 👯 I’m looking to collaborate on an Open Source project
+- 🔭 I’m Full Stack Web developer.
+- 👯 I’m looking to collaborate on an Open Source project.
 
 
 
